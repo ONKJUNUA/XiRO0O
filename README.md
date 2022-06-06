@@ -2,7 +2,7 @@
 
 - 👀 I am a 20-year-old "normal" guy living in the European countryside.
 
-- 😻 I am interested in C # (due to my little experience in developing games in Unity), C ++ and Python.
+- 😻 I am interested in C# (due to my little experience in developing games in Unity), C++ and Python.
 
 - 😐 Of course, I also know web-based technologies such as JavaScript, node.js, PHP or XML. But I'm not interested in them - I would prefer to develop technology related mainly to backend and of course the graphic aspect of games that I create more as a hobby.
 
