@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @XiRO0O
-
 - 👀 I am a 20-year-old "normal" guy living in the European countryside.
 
 - 😻 I am interested in C# (due to my little experience in developing games in Unity), C++, Java (thanks to my modding career in an iconic game called Minecraft) and Python (well, i'm learning it at least).
