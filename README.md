@@ -4,6 +4,6 @@
 
 - 😐 Of course, I also know web-based technologies such as JavaScript, node.js, PHP or XML. But to be honest: I would love to work with Python and its frameworks in the future.
 
-- 📫 And most importantly - I am still looking for a job in a "dynamic young team", so if you have any interesting offer, let me know: jaseko2002@gmail.com
+- 📫 And most importantly - If you have any interesting offer, let me know: jaseko2002@gmail.com
 
 - 💪 Good luck with your projects.
